@@ -1,6 +1,8 @@
 # Load necessary library
 library(dplyr)
 
+# Lakukan perubahan kode untuk mencoba commit changes
+
 # Read the CSV data
 data <- read.csv("/Users/frandypasaribu/Downloads/Air_Traffic_Passenger_Statistics.csv")
 
